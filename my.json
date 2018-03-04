@@ -1,0 +1,44 @@
+{
+"basic":{
+"name":"Pavan Kumar",
+"phone":"9876543210",
+"photo":"im58798670.jpg",
+"email":"abcdef@gmail.com"
+},
+ "education":[
+   {
+   "course":"B.tech(Computer science and engineering)",
+   "college":"Gudlavalleru engineering college",
+   "data":["2015-2019","90%","JNTU-K"]
+ },
+ {
+   "course":"Inter(MPC)",
+   "college":"R.K Junior College",
+   "data":["2013-2015","96%"]
+
+},
+{
+  "course":"CBSE",
+  "college":"Vijaya High School",
+  "data":["2003-2013","95%"]
+}
+],
+"skills":[
+  {
+    "name":"languages known",
+    "info":["C","python","java","javascript"]
+  },
+  {
+    "name":"Operating Systems",
+    "info":["Linux","Windows","fedora","Unix"]
+  },
+  {
+    "name":"Libraries",
+    "info":["Jquert","Bootstrap"]
+  },
+  {
+    "name":"DataBases",
+    "info":["MYSQL","pl/sql","Oracle","MysqLite"]
+  }
+]
+}
